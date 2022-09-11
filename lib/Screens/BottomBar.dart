@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:movie_app/Screens/AlbumsDiscover.dart';
 import 'package:movie_app/Screens/Searchscreen.dart';
 import 'package:movie_app/Screens/FavScreen.dart';
+import 'package:movie_app/Screens/welcome.dart';
 
 class BottomBarScreen extends StatefulWidget {
   @override
@@ -97,7 +98,10 @@ class _BottomBarScreenState extends State<BottomBarScreen> {
                   Text("Log Out"),
                 ],
               ),
-              onTap: () {},
+              onTap: () {
+                Navigator.push(context,
+                    MaterialPageRoute(builder: (context) => Welcome()));
+              },
             ),
           ],
         ),
