@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "737108885521",
+    "project_id": "lyrics-c025c",
+    "storage_bucket": "lyrics-c025c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737108885521:android:3e5c73c3a70c8410d971b0",
+        "android_client_info": {
+          "package_name": "com.example.movie_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737108885521-9i8j7ebj6u6fc2o2jd147u7d1llcf19a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.movie_app",
+            "certificate_hash": "591420cc75833edeb8039d71e0331626a8c5d6fd"
+          }
+        },
+        {
+          "client_id": "737108885521-gbio9bbjtf73hcg62nj80dltsg6fcg3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9caASxjfiJJLM8_2l2QMa6ml31_FjmAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737108885521-gbio9bbjtf73hcg62nj80dltsg6fcg3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
